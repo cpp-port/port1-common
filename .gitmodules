@@ -1,0 +1,12 @@
+[submodule "debug"]
+	path = debug
+	url = ../debug
+	branch = main
+[submodule "debugbreak"]
+	path = debugbreak
+	url = ../../scottt/debugbreak
+	branch = master
+[submodule "mbedtls"]
+	path = mbedtls
+	url = ../mbedtls
+	branch = main
